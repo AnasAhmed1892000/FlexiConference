@@ -26,7 +26,7 @@ const VideoCallScreen = () => {
     appId: "6fc8db8c19874a7ba6b3120bb81771b8",
     channel: channelId ? channelId : "test",
     token:
-      "007eJxTYLgy+X9OlQL/18P+6xh/75Bjrj76WF+6nWvSm2bNryUJRyYrMJilJVukJFkkG1pamJskmiclmiUZGxoZJCVZGJqbGyZZdNVJpjYEMjJUb3jEwAiFID4LQ0lqcQkDAwCPayBR",
+      "007eJxTYAhjP2CiF/xO/d/7SxyVsVNZfK6bchnODCuXlFt5bTG/YYsCg1laskVKkkWyoaWFuUmieVKiWZKxoZFBUpKFobm5YZLF5gDp1IZARoaiYwcZGKEQxGdhKEktLmFgAACPLB0g",
   };
   callbacks = {
     EndCall: () => setVideoCall(false),
